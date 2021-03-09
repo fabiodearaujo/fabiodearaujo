@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-:brazil:    :ireland:
-
 :octocat:
 
 
