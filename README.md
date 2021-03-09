@@ -24,11 +24,15 @@ Here are some ideas to get you started:
 
 <hr>
 
-# &#x1f4c8; Languages Stats
+# 	&#x1F4CA; Used Languages Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioaraujo76&theme=tokyonight)](https://github.com/fabioaraujo76/fabioaraujo76)
 
 <hr>
+
+:brazil:    :ireland:
+
+:octocat:
 
 
 
