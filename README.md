@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **fabioaraujo76/fabioaraujo76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello World!
+### Hi there 👋
+
+<hr>
+
+# &#x1f4c8; GitHub Stats
+
+![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioaraujo76&show_icons=true&theme=tokyonight)
+
+<hr>
+
+# &#x1f4c8; Languages Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioaraujo76&theme=tokyonight)](https://github.com/fabioaraujo76/fabioaraujo76)
+
+<hr>
+
+
+
+
