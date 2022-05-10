@@ -87,4 +87,6 @@ Here are some ideas to get you started:
 
 <br />
 
+![Also on](https://github.com/fabioaraujo76)
+
 :octocat:
