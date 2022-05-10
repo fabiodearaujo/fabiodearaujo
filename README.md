@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 <br />
 
-:octocat:
+[ Academic account on :octocat:](https://github.com/fabiodearaujo)
 
 
 
