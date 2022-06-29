@@ -87,6 +87,6 @@ Here are some ideas to get you started:
 
 <br />
 
-[Also on :octocat:](https://github.com/fabioaraujo76)
+## [Also on :octocat:](https://github.com/fabioaraujo76)
 
 
