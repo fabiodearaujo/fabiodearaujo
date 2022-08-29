@@ -4,10 +4,10 @@
 
 My name if Fabio, and here is something about me:
 
-- 🔭 I’m currently collaborating on ![ClusterStack.io](https://clusterstack.io)
+- 🔭 I’m currently collaborating on [ClusterStack.io](https://clusterstack.io)
 - 💬 Ask me about Software Development or Tech in general, I will be happy to help if I can.
-- 📫 How to reach me: ![Personal Portfolio](https://fabiodearaujo.com) or by email on ![fabioaraujo76@gmail.com](fabioaraujo76@gmail.com)
-- ⚡ Fun fact: Born in Brazil 🇧🇷 from Portuguese 🇵🇹 and Italian 🇮🇹 families, now married to a Czech 🇨🇿 wife and growing two Irish 🇮🇪 children.
+- 📫 How to reach me: [Personal Portfolio](https://fabiodearaujo.com) or by email on [fabioaraujo76@gmail.com](fabioaraujo76@gmail.com)
+- ⚡ Fun fact: Born in Brazil 🇧🇷 from Portuguese 🇵🇹 and Italian 🇮🇹 families, now married to a Czech 🇨🇿 woman and growing two Irish 🇮🇪 children.
 
 <hr>
 <div align="center">
@@ -15,13 +15,12 @@ My name if Fabio, and here is something about me:
 # &#x1f4c8; GitHub Stats
 
 
-
 ![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiodearaujo&show_icons=true&theme=tokyonight)
 
 <hr>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiodearaujo" alt="fabiodearaujo" /></a> </p>
-
+ 
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=fabiodearaujo)
+ 
 <hr>
 
 # 	&#x1F4CA; Used Languages Stats
@@ -38,6 +37,7 @@ My name if Fabio, and here is something about me:
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
@@ -47,10 +47,13 @@ My name if Fabio, and here is something about me:
 
 
  #### Libraries and Frameworks
-![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
-![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
 ![React JS](https://img.shields.io/badge/React%20JS%20-%23000000.svg?&style=for-the-badge&logo=React&logoColor=#5dd4f3)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-230000?&style=for-the-badge&logo=Next.js&logoColor=#fff)
+![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
+![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
 ![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=google&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)
@@ -74,13 +77,15 @@ My name if Fabio, and here is something about me:
  ![Gitpod](https://img.shields.io/badge/Gitpod%20-%231D1D1D.svg?&style=for-the-badge&logo=Gitpod&logoColor=1AA6E4)
  ![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
  ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
-![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%231572B6.svg?&style=for-the-badge&logo=Google-Cloud&logoColor=FFFFFF)
-![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
-![WordPress](https://img.shields.io/badge/WordPress%20-%2300758F.svg?&style=for-the-badge&logo=Wordpress&logoColor=FFFFFF)
-![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
+ ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+ ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+ ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
+ ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+ ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%231572B6.svg?&style=for-the-badge&logo=Google-Cloud&logoColor=FFFFFF)
+ ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+ ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
+ ![WordPress](https://img.shields.io/badge/WordPress%20-%2300758F.svg?&style=for-the-badge&logo=Wordpress&logoColor=FFFFFF)
+ ![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
 
 <br />
 
