@@ -1,20 +1,13 @@
-<!--
-**fabiodearaujo/fabiodearaujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Hello World!
 ### Hi there 👋
+
+My name if Fabio, and here is something about me:
+
+- 🔭 I’m currently collaborating on ![ClusterStack.io](https://clusterstack.io)
+- 💬 Ask me about Software Development or Tech in general, I will be happy to help if I can.
+- 📫 How to reach me: ![Personal Portfolio](https://fabiodearaujo.com) or by email on ![fabioaraujo76@gmail.com](fabioaraujo76@gmail.com)
+- ⚡ Fun fact: Born in Brazil 🇧🇷 from Portuguese 🇵🇹 and Italian 🇮🇹 families, now married to a Czech 🇨🇿 wife and growing two Irish 🇮🇪 children.
 
 <hr>
 <div align="center">
