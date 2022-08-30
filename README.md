@@ -2,7 +2,7 @@
 ## Hello World!
 ### Hi there 👋
 
-My name if Fabio, and here is something about me:
+My name is Fabio, nice to meet you! :smiley:  Below some information about me:
 
 - 🔭 I’m currently collaborating on [ClusterStack.io](https://clusterstack.io)
 - 💬 Ask me about Software Development or Tech in general, I will be happy to help if I can.
@@ -13,7 +13,6 @@ My name if Fabio, and here is something about me:
 <div align="center">
 
 # &#x1f4c8; GitHub Stats
-
 
 ![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiodearaujo&show_icons=true&theme=tokyonight)
 
