@@ -6,7 +6,7 @@ My name is Fabio, nice to meet you! :smiley:  Below some information about me:
 
 - 💬 Ask me about Software Development or Tech in general, I will be happy to help if I can.
 - 📫 How to reach me: [Personal Portfolio](https://fabiodearaujo.com) or by email on [fabioaraujo76@gmail.com](fabioaraujo76@gmail.com)
-- ⚡ Fun fact: Born in Brazil 🇧🇷 from Portuguese 🇵🇹 and Italian 🇮🇹 families, now married to a Czech 🇨🇿 woman and growing two Irish 🇮🇪 children.
+- ⚡ Fun fact: Born in Brazil 🇧🇷 from Portuguese 🇵🇹 and Italian 🇮🇹 families, married to a Czech 🇨🇿 woman and growing two Irish 🇮🇪 children.
 
 <hr>
 <div align="center">
