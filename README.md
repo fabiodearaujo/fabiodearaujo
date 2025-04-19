@@ -26,9 +26,9 @@ My name is Fabio, nice to meet you! :smiley:  Below some information about me:
    <a href="https://www.linkedin.com/in/fabioaraujo76/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
-</div>
+<!-- </div>
    <img src="https://komarev.com/ghpvc/?fabioaraujo76e&abbreviated=true" alt="Github Profile Views"/>
-</div>
+</div> -->
 
 <hr>
 <div align="center">
