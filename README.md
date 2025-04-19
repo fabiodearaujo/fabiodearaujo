@@ -21,6 +21,14 @@ My name is Fabio, nice to meet you! :smiley:  Below some information about me:
 
 - 💬 Ask me about Software Development or Tech in general, I will be happy to help if I can.
 - 📫 How to reach me: [Personal Portfolio](https://fabiodearaujo.com) or by email on [fabioaraujo76@gmail.com](fabioaraujo76@gmail.com)
+<hr>
+<div id="badges">
+   <a href="https://www.linkedin.com/in/fabioaraujo76/">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+</div>
+   ![:octocat: Views](https://komarev.com/ghpvc/?fabioaraujo76)
+</div>
 
 <hr>
 <div align="center">
