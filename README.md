@@ -30,7 +30,7 @@ My name is Fabio, nice to meet you! :smiley:  Below some information about me:
    <img src="https://komarev.com/ghpvc/?fabioaraujo76e&abbreviated=true" alt="Github Profile Views"/>
 </div> -->
 
-<hr>
+<!-- <hr>
 <div align="center">
 
 # &#x1f4c8; GitHub Stats
@@ -47,7 +47,7 @@ My name is Fabio, nice to meet you! :smiley:  Below some information about me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodearaujo&theme=tokyonight)](https://github.com/fabiodearaujo/fabiodearaujo)
 
-</div>
+</div> -->
 
 <hr>
 
